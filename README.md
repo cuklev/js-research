@@ -1,3 +1,3 @@
 # js-research
 
-### [link](http://cukii.tk/)
+### [link](http://cukii.tk/) <!-- .element: target="_blank" -->
