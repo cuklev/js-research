@@ -1,3 +1,3 @@
 # js-research
 
-### [link](http://cukii.tk/) <!-- .element: target="_blank" -->
+<a href="http://cukii.tk/" target="_blank">link</a>
